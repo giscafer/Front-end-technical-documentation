@@ -1,4 +1,6 @@
 # Front-end-technical-documentation
 
-The front-end technical documentation （个人整理的前端开发相关技术文档）
+The front-end technical documentation 
+
+个人整理的前端开发相关技术文档和面试题等
 
